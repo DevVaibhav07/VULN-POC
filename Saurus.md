@@ -270,5 +270,8 @@ This prevents cross-database traversal (`information_schema.*`) and eliminates i
 | CWE-89 | https://cwe.mitre.org/data/definitions/89.html |
 | OWASP SQL Injection | https://owasp.org/www-community/attacks/SQL_Injection |
 | CVSS Calculator | https://www.first.org/cvss/calculator/3.1 |
-| GitHub Advisory | https://github.com/sauruscms/Saurus-CMS-Community-Edition/security/advisories/new |
+| Compliance | In compliance with Sections 4.2 and 5.3 of the CVE Entry Reference Requirement rules, and after having provided a period of 108 days for an attempt at coordinated vulnerability disclosure from the vendor, this finding is being officially made public.
+
+ |
 ---
+
