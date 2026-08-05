@@ -1,8 +1,5 @@
 # ImpressCMS ≤ 2.0.3 — PHP Code Injection via Custom Tags → Remote Code Execution
 
-## CVE
-
-CAN-2026-2030544 (pending CVE assignment)
 
 ## Summary
 
