@@ -122,14 +122,7 @@ curl -s 'http://localhost:9090/rce.php?c=cat+/etc/passwd'
 2. If the feature is retained, execute stored PHP in a sandboxed context rather than raw `eval()`.
 3. Apply a strict Content Security Policy and restrict the Custom Tags admin panel to a dedicated super-admin role.
 
-## Timeline
-
-| Date | Event |
-|---|---|
-| 2026-05-26 | Vulnerability discovered and PoC verified |
-| 2026-05-26 | CVE requested via MITRE (CAN-2026-2030544) |
-| TBD | Vendor notification |
-| TBD | CVE published |
+##This is a dead Project
 
 ## References
 
